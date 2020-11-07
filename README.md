@@ -1,2 +1,2 @@
 # urhonets
-Herota
+Hero
